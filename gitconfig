@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sarah.menu@gmail.com
+	name = Sarah Menu
